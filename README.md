@@ -60,12 +60,5 @@ UI/UX demostration of the Weather Dashboard:
 ![Application Preview](assets/weather-dashboard-demo.gif)
 
 
-## License
-Copyright (c) 2021 J.K. Royston  
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-
-## Contact
-J.K. Royston  
-<jkroyston@gmail.com>  
-[GitHub](https://www.github.com/jxhnkndl)
+Contact:
+nagsensonkamble@gmail.com
